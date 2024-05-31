@@ -1,0 +1,602 @@
+﻿Organization Unit,Organization unit name,Num_Workforce,Num_PCPs,Num_Midwives,Total_Beds,Occupied_Beds,Pct_BedOccupancy,Birthing_Center
+581,Wilberforce Military Hospital,16,2,0,147,147,100.00,No
+78,Dia CHP,45,24,21,132,132,100.00,Yes
+562,Tongo Field CHC,35,23,12,125,125,100.00,Yes
+88,Fatkom Muchendeh Maternity Clinic,43,0,0,115,115,100.00,No
+592,Yeben MCHP,50,49,0,89,89,100.00,No
+226,Kochero MCHP,18,9,9,82,82,100.00,Yes
+517,Sendumei CHC,35,0,0,67,67,100.00,No
+221,Kissy Koya MCHP,45,24,21,50,50,100.00,Yes
+518,Senehun CHC,21,15,6,48,48,100.00,Yes
+195,Kania MCHP,28,26,2,29,29,100.00,Yes
+403,Mofombo MCHP,19,3,0,15,15,100.00,No
+594,Yele CHC,3,1,0,11,11,100.00,No
+372,Masofinia MCHP,10,1,0,11,11,100.00,No
+487,Rogbin MCHP,18,2,16,9,9,100.00,Yes
+132,Gbonkoh Kareneh MCHP,15,6,9,6,6,100.00,Yes
+293,Maborie MCHP,26,11,0,5,5,100.00,No
+147,Govt. Hosp. Kenema,39,15,0,103,102,99.03,No
+322,Makama MCHP,48,30,0,101,100,99.01,No
+52,Bomotoke CHC,22,15,0,80,79,98.75,No
+481,Robat MCHP,3,2,1,73,72,98.63,Yes
+344,Mambolo CHC,43,33,10,47,46,97.87,Yes
+240,Konjo CHP,19,6,0,128,125,97.66,No
+301,Madopolahun MCHP,6,2,0,81,79,97.53,No
+72,Dandabu CHP,6,3,3,40,39,97.50,Yes
+449,Njagbwema CHP,3,1,0,72,70,97.22,No
+121,Gberifeh MCHP,14,5,0,134,130,97.01,No
+124,Gbolon MCHP,15,15,0,33,32,96.97,Yes
+319,Makaiba MCHP,37,20,0,32,31,96.88,No
+439,Ngelehun CHC,27,4,23,144,139,96.53,Yes
+304,Mafufuneh MCHP,37,18,19,85,82,96.47,Yes
+343,Mamanso Sanka CHP,16,4,0,106,102,96.23,No
+401,Mobai CHC,19,6,13,92,88,95.65,Yes
+233,Kolisokor MCHP,6,5,1,46,44,95.65,Yes
+27,Baptist Centre Kassirie,37,11,26,58,55,94.83,Yes
+49,Boajibu CHC,13,8,5,37,35,94.59,Yes
+386,Mathufulie MCHP,43,34,9,71,67,94.37,Yes
+242,Kono Bendu CHP,5,1,4,70,66,94.29,Yes
+480,Robaka MCHP,18,6,12,118,111,94.07,Yes
+591,Yargoi MCHP,26,13,0,50,47,94.00,No
+373,Masoko MCHP,24,4,0,83,78,93.98,No
+158,Hunduwa CHP,12,10,2,83,78,93.98,Yes
+39,Bendu Mameima CHC,17,9,0,32,30,93.75,No
+348,Mana II CHP,48,27,21,143,134,93.71,Yes
+566,UMC Clinic Taiama,12,4,0,78,73,93.59,No
+551,Tawahun MCHP,33,22,0,30,28,93.33,No
+54,Bucksal Clinic,38,15,0,15,14,93.33,No
+191,Kambia GH,10,5,5,55,51,92.73,Yes
+266,Kumrabai Yoni MCHP,17,17,0,132,122,92.42,Yes
+300,Madina MCHP,37,24,13,13,12,92.31,Yes
+151,Govt. Medical Hospital,13,5,0,90,83,92.22,No
+41,Benduma CHC,7,6,0,77,71,92.21,No
+515,Sembeima MCHP,48,29,0,71,65,91.55,No
+459,Nyandehun MCHP,42,25,0,47,43,91.49,No
+560,Tokeh MCHP,39,36,0,35,32,91.43,No
+264,Kroo Bay CHC,40,11,29,58,53,91.38,Yes
+211,Kayongoro MCHP,50,28,22,45,41,91.11,Yes
+354,Manjeihun MCHP,25,11,14,99,90,90.91,Yes
+244,Konta-Line MCHP,44,13,31,33,30,90.91,Yes
+282,Loreto Clinic,10,0,10,11,10,90.91,Yes
+436,Ngaiya MCHP,17,12,5,131,119,90.84,Yes
+381,Massingbi CHC,24,2,0,105,95,90.48,No
+171,Kabba Ferry MCHP,12,6,0,84,76,90.48,No
+507,Samiquidu MCHP,2,0,2,113,102,90.27,Yes
+28,Bapuya MCHP,45,41,0,10,9,90.00,No
+257,Kpetema CHP,16,3,0,68,61,89.71,No
+214,Kensay MCHP,45,2,43,83,74,89.16,Yes
+162,Jendema CHC,34,32,2,92,82,89.13,Yes
+375,Masorie CHP,18,12,0,72,64,88.89,No
+505,Samaya CHP,14,7,0,79,70,88.61,No
+167,Jormu MCHP,24,24,0,96,85,88.54,Yes
+206,Kathanta Bana MCHP,46,0,46,104,92,88.46,Yes
+245,Kordebotehun MCHP,18,17,0,121,107,88.43,No
+190,Kambia CHP,31,2,29,146,129,88.36,Yes
+36,Belebu CHP,20,16,4,17,15,88.24,Yes
+316,Majihun MCHP,28,10,18,8,7,87.50,Yes
+154,Hamilton MCHP,16,10,6,8,7,87.50,Yes
+315,Mahera CHC,27,24,0,63,55,87.30,No
+482,Robina MCHP,31,25,0,77,67,87.01,No
+382,Masuba MCHP,11,0,11,46,40,86.96,Yes
+175,Kagbo MCHP,46,33,13,23,20,86.96,Yes
+484,Rochen Malal MCHP,21,13,8,145,126,86.90,Yes
+577,Wellington Health Centre,24,3,0,99,86,86.87,No
+239,Kondeya MCHP,27,4,23,114,99,86.84,Yes
+110,Gbamgbama CHC,23,6,0,68,59,86.76,No
+163,Jenner Wright Clinic,41,13,28,90,78,86.67,Yes
+399,Menicurve MCHP,7,0,0,110,95,86.36,No
+130,Gbongongor CHP,39,21,0,102,88,86.27,No
+455,Njaluahun CHP,42,31,11,77,66,85.71,Yes
+471,Perrie MCHP,6,1,5,70,60,85.71,Yes
+164,John Thorpe MCHP,29,7,0,14,12,85.71,No
+383,Masumana MCHP,8,6,0,14,12,85.71,No
+63,Bumpeh River CHP,35,10,0,69,59,85.51,No
+274,Lawana MCHP,9,9,0,134,114,85.07,No
+216,Kholifaga MCHP,12,8,0,127,108,85.04,No
+309,Magbeni MCHP,39,36,0,131,111,84.73,No
+425,Motorbong MCHP,18,9,9,65,55,84.62,Yes
+253,Kpandebu CHC,34,32,0,56,47,83.93,No
+333,Makump Bana MCHP,20,10,0,127,106,83.46,No
+408,Mokanji CHC,45,42,3,12,10,83.33,Yes
+57,Bumbanday MCHP,8,6,0,53,44,83.02,No
+351,Mange CHC,30,12,18,106,87,82.08,Yes
+474,Peya MCHP,27,6,0,111,91,81.98,No
+394,Mbundorbu MCHP,28,5,23,88,72,81.82,Yes
+427,Moyeamoh CHP,28,21,7,44,36,81.82,Yes
+276,Levuma CHP,11,7,0,22,18,81.82,No
+37,Bendu (Yawei) CHP,25,22,0,135,110,81.48,No
+583,Wonkibor MCHP,37,4,33,80,65,81.25,Yes
+405,Mogbwemo CHP,25,21,0,16,13,81.25,No
+488,Rokai CHP,30,16,14,66,53,80.30,Yes
+263,Kpuabu MCHP,25,12,0,125,100,80.00,No
+535,St. Joseph's Clinic,9,8,1,119,95,79.83,Yes
+249,Kornia MCHP,11,0,11,88,70,79.55,Yes
+506,Sambaya MCHP,20,12,0,127,101,79.53,No
+254,Kpandebu MCHP,13,4,0,29,23,79.31,No
+414,Mokorewa MCHP,4,2,0,48,38,79.17,No
+548,Taninahun MCHP,19,9,0,140,110,78.57,No
+452,Njala CHC,32,16,16,121,95,78.51,Yes
+138,Geoma Jagor CHC,5,1,4,51,40,78.43,Yes
+209,Kawaya MCHP,5,5,0,111,87,78.38,No
+107,Gbalahun CHP,3,3,0,74,58,78.38,Yes
+380,Masselleh MCHP,3,1,0,97,76,78.35,No
+422,Motema CHP,46,33,0,83,65,78.31,No
+65,Bureh MCHP,36,20,16,78,61,78.21,Yes
+479,Rina Clinic,49,11,38,82,64,78.05,Yes
+585,Yabaima CHP,15,14,1,100,78,78.00,Yes
+241,Konjo MCHP,25,5,0,50,39,78.00,No
+75,Degbuama MCHP,43,13,30,9,7,77.78,Yes
+485,Rofoindu CHP,30,13,17,139,108,77.70,Yes
+268,Kunsho CHP,28,13,15,93,72,77.42,Yes
+43,Benkeh MCHP,36,0,0,128,99,77.34,No
+227,Koeyor MCHP,4,2,0,39,30,76.92,No
+77,Delken MCHP,18,9,0,13,10,76.92,No
+60,Bumpe CHC,9,4,0,73,56,76.71,No
+352,Manjama MCHP,19,4,0,145,111,76.55,No
+55,Bum Kaku MCHP,33,12,0,34,26,76.47,No
+523,Senthai MCHP,14,5,0,118,90,76.27,No
+340,Mamaka MCHP,17,4,13,143,109,76.22,Yes
+538,Sulima CHP,11,1,0,146,111,76.03,No
+508,Sandayeima MCHP,16,15,1,122,92,75.41,Yes
+292,Mabora MCHP,4,0,0,134,101,75.37,No
+586,Yakaji MCHP,10,0,10,60,45,75.00,Yes
+568,Upper Saama MCHP,44,4,0,24,18,75.00,No
+433,Nengbema CHC,11,6,5,8,6,75.00,Yes
+68,Condama MCHP,18,8,10,107,80,74.77,Yes
+149,Govt. Hospital,35,9,0,99,74,74.75,No
+213,Kenema Gbandoma MCHP,39,7,0,146,109,74.66,No
+326,Makeni-Lol MCHP,34,30,4,138,102,73.91,Yes
+176,Kagboray MCHP,34,28,6,19,14,73.68,Yes
+98,Futa CHC,12,4,0,113,83,73.45,No
+243,Konta CHP,16,7,0,150,110,73.33,No
+363,Mansumana CHP,39,34,5,45,33,73.33,Yes
+30,Barmoi Luma MCHP,37,10,27,11,8,72.73,Yes
+460,Nyeama CHP,10,0,0,62,45,72.58,No
+193,Kamiendor MCHP,16,5,0,69,50,72.46,No
+350,Mangay Loko MCHP,38,21,17,29,21,72.41,Yes
+134,Gbotima MCHP,33,20,0,47,34,72.34,No
+58,Bumbeh MCHP,40,14,26,18,13,72.22,Yes
+159,Jaiama Sewafe CHC,39,16,23,43,31,72.09,Yes
+194,Kangahun CHC,24,9,15,82,59,71.95,Yes
+574,Walia MCHP,43,36,0,140,100,71.43,No
+465,Pehala MCHP,8,7,1,77,55,71.43,Yes
+418,Mongere CHC,41,37,0,35,25,71.43,No
+576,Weima CHC,31,12,0,7,5,71.43,No
+279,London (Blama) MCHP,3,2,1,80,57,71.25,Yes
+95,Foria CHP,44,21,23,92,65,70.65,Yes
+267,Kundundu MCHP,9,2,0,135,95,70.37,No
+318,Makabo MCHP,32,16,0,145,102,70.34,No
+580,Wilberforce MCHP,23,12,0,47,33,70.21,No
+152,Grassfield CHC,35,0,35,140,98,70.00,Yes
+61,Bumpeh CHP,1,0,1,143,100,69.93,Yes
+192,Kambia Makama CHP,43,15,0,126,88,69.84,No
+84,Falaba CHC,46,23,0,63,44,69.84,No
+258,Kpetema CHP (Toli),44,40,4,23,16,69.57,Yes
+76,Deima MCHP,13,12,1,74,51,68.92,Yes
+261,Kpolies Clinic,34,22,12,56,38,67.86,Yes
+153,Guala MCHP,4,4,0,28,19,67.86,No
+431,Murray Town CHC,20,7,0,105,71,67.62,No
+430,Moyowa MCHP,24,9,0,71,48,67.61,No
+105,Gbaiima CHC,29,4,0,148,100,67.57,No
+96,Fotaneh Junction MCHP,34,32,2,40,27,67.50,Yes
+220,Kissy Health Centre,21,21,0,92,62,67.39,No
+365,Mapillah MCHP,16,1,0,46,31,67.39,No
+489,Rokimbi MCHP,47,13,0,137,92,67.15,No
+177,Kainkordu CHC,16,7,9,123,82,66.67,Yes
+218,KingHarman Rd. Hospital,9,7,2,105,70,66.67,Yes
+547,Tambiama CHC,10,9,1,93,62,66.67,Yes
+530,SLRCS MCH Clinic,39,31,0,18,12,66.67,No
+99,Gambia CHP,10,5,0,15,10,66.67,No
+256,Kpayama 2 MCHP,40,11,0,9,6,66.67,No
+87,Fankoya MCHP,37,12,25,9,6,66.67,Yes
+246,Korgbotuma MCHP,46,15,31,71,47,66.20,Yes
+285,"Lungi Govt. Hospital, Port Loko",17,8,0,136,90,66.18,No
+357,Mano CHC,28,3,25,130,86,66.15,Yes
+513,Sembehun CHC,14,6,8,121,80,66.12,Yes
+13,Bailor CHP,34,34,0,91,60,65.93,Yes
+67,Conakry Dee CHC,7,3,4,111,73,65.77,Yes
+8,Babara CHC,17,8,9,35,23,65.71,Yes
+420,Mosenegor MCHP,28,12,0,58,38,65.52,No
+307,Magbaingba MCHP,1,1,0,26,17,65.38,No
+73,Daru CHC,36,34,2,95,62,65.26,Yes
+358,Mano Menima CHP,16,6,0,46,30,65.22,No
+511,Seidu MCHP,18,18,0,20,13,65.00,Yes
+429,Moyollo MCHP,42,8,34,122,79,64.75,Yes
+440,Ngelehun MCHP,45,29,0,110,71,64.55,No
+536,St. Mary's Clinic,11,3,0,98,63,64.29,No
+514,Sembehun MCHP,46,16,0,98,63,64.29,No
+391,Mayogbor MCHP,24,23,1,70,45,64.29,Yes
+173,Kagbaneh CHP,2,2,0,109,70,64.22,No
+280,Looking Town MCHP,4,2,2,39,25,64.10,Yes
+531,Songo CHC,14,3,0,25,16,64.00,No
+601,Zimmi CHC,38,16,0,61,39,63.93,No
+205,Kasse MCHP,29,22,0,119,76,63.87,No
+236,Konabu MCHP,29,27,0,94,60,63.83,No
+247,Koribondo CHC,20,0,0,132,84,63.64,No
+432,Musaia CHP,20,12,0,89,56,62.92,No
+544,Swarray Town MCHP,46,45,0,105,66,62.86,No
+126,Gbondapi CHC,9,8,0,35,22,62.86,No
+411,Mokobo MCHP,0,0,0,134,84,62.69,Yes
+584,Wordu CHP,2,1,0,85,53,62.35,No
+255,Kpayama 1 MCHP,26,9,17,76,47,61.84,Yes
+378,Massahun MCHP,23,3,20,70,43,61.43,Yes
+332,Makrugbeh MCHP,35,29,0,75,46,61.33,No
+573,Waiima MCHP,35,27,0,111,68,61.26,No
+448,Njagbahun MCHP,25,11,14,104,63,60.58,Yes
+493,Rokupr CHC,20,1,0,55,33,60.00,No
+578,Wesleyan Health Clinic,34,7,0,20,12,60.00,No
+445,Niahun Gboyama MCHP,14,13,0,5,3,60.00,No
+483,Rochem Kamandao CHP,23,21,0,91,54,59.34,No
+25,Baoma Station CHP,27,6,0,137,81,59.12,No
+353,Manjama UMC CHC,5,0,5,124,73,58.87,Yes
+320,Makali CHC,30,13,0,102,60,58.82,No
+14,Bakeloko CHP,41,23,0,63,37,58.73,No
+199,Kapethe MCHP,19,1,18,41,24,58.54,Yes
+2,Ahmadiyya Muslim Hospital,28,27,1,77,45,58.44,Yes
+42,Benduma MCHP,45,44,1,127,74,58.27,Yes
+438,Ngegbwema CHC,32,24,0,88,51,57.95,No
+545,Talia CHC,40,39,1,19,11,57.89,Yes
+599,Yormandu CHC,48,40,0,19,11,57.89,No
+534,St. John of God Catholic Hospital,8,2,0,137,79,57.66,No
+345,Mamboma (Peje Bongre) CHP,39,0,39,40,23,57.50,Yes
+237,Konda CHP,1,0,0,119,68,57.14,No
+294,Mabunduka CHC,9,2,0,77,44,57.14,No
+33,Bathurst MCHP,5,3,2,21,12,57.14,Yes
+22,Bandusuma MCHP,34,22,12,21,12,57.14,Yes
+115,Gbanti CHC,17,10,0,7,4,57.14,No
+9,Bafodia CHC,39,1,38,137,78,56.93,Yes
+59,Bumbuna CHC,49,29,20,65,37,56.92,Yes
+395,MCH Static,31,1,0,67,38,56.72,No
+215,Kent CHP,42,35,0,30,17,56.67,No
+269,Kuranko MCHP,21,20,1,85,48,56.47,Yes
+346,Mamboma MCHP,11,3,0,16,9,56.25,No
+7,Baama CHC,30,4,26,16,9,56.25,Yes
+287,Lunsar CHC,35,23,0,139,78,56.12,No
+146,Govt. Hosp. Bonthe,3,2,1,86,48,55.81,Yes
+141,Goderich Health Centre,19,7,0,113,63,55.75,No
+512,Sembehun 17 CHP,28,16,12,63,35,55.56,Yes
+443,Ngieyehun MCHP,47,2,0,9,5,55.56,No
+234,Komba Yendeh CHP,39,35,0,110,61,55.45,No
+491,Rokulan CHC,30,30,0,150,83,55.33,Yes
+522,Senjehun MCHP,39,1,0,132,73,55.30,No
+454,Njala University Hospital,39,10,0,114,63,55.26,No
+419,Moriba Town CHC,29,12,0,67,37,55.22,No
+458,Nonkoba CHP,48,32,16,89,49,55.06,Yes
+145,Gorahun CHC,31,2,0,109,60,55.05,No
+593,Yekior MCHP,47,14,0,20,11,55.00,No
+85,Falaba CHP,14,7,7,42,23,54.76,Yes
+331,Makoni Line MCHP,28,17,0,95,52,54.74,No
+275,Lengekoro MCHP,5,5,0,57,31,54.39,No
+501,Saama MCHP,45,9,36,142,77,54.23,Yes
+473,Petifu Line MCHP,28,3,0,144,78,54.17,No
+510,Sanya CHP,31,13,0,84,45,53.57,No
+79,Dodo CHC,28,12,16,73,39,53.42,Yes
+486,Rogbaneh MCHP,32,22,10,103,55,53.40,Yes
+140,Ginger Hall Health Centre,23,8,0,34,18,52.94,No
+370,Maselleh MCHP,27,21,0,123,65,52.85,No
+520,Senekedugu MCHP,12,10,0,55,29,52.73,No
+238,Kondewakoro CHP,49,39,10,116,61,52.59,Yes
+10,Bai Largo MCHP,16,13,0,40,21,52.50,No
+497,Rosengbeh MCHP,19,15,4,75,39,52.00,Yes
+424,Motonkoh MCHP,43,17,0,108,56,51.85,No
+251,Kowama MCHP,38,8,30,29,15,51.72,Yes
+588,Yambama MCHP,35,33,2,33,17,51.52,Yes
+377,Massabendu CHP,21,2,19,133,68,51.13,Yes
+542,Susan's Bay MCHP,11,3,8,98,50,51.02,Yes
+462,Panlap MCHP,4,0,4,59,30,50.85,Yes
+572,Wai MCHP,4,2,0,105,53,50.48,No
+101,Gandorhun CHP,49,6,43,134,67,50.00,Yes
+366,Maraka MCHP,7,2,5,114,57,50.00,Yes
+70,Crossing MCHP,10,3,7,52,26,50.00,Yes
+283,Lowoma CHC,2,0,0,36,18,50.00,No
+50,Bombohun MCHP,35,4,0,36,18,50.00,No
+35,Bayama MCHP,41,37,0,22,11,50.00,No
+81,Faala CHP,39,1,0,12,6,50.00,No
+362,Mansadu MCHP,0,0,0,8,4,50.00,Yes
+575,Warima MCHP,18,18,0,2,1,50.00,No
+310,Magbil MCHP,7,5,2,133,66,49.62,Yes
+457,Njama MCHP,8,4,4,124,61,49.19,Yes
+113,Gbangeima MCHP,4,1,0,112,55,49.11,No
+174,Kagbere CHC,20,9,11,64,31,48.44,Yes
+139,George Brook Health Centre,22,3,0,104,50,48.08,No
+413,Mokorbu MCHP,31,18,13,67,32,47.76,Yes
+5,Approved School CHP,43,13,0,21,10,47.62,No
+40,Bendugu CHC,33,30,0,143,68,47.55,No
+117,Gbeika MCHP,18,13,5,61,29,47.54,Yes
+133,Gbonkonka CHP,17,17,0,38,18,47.37,Yes
+565,UBC Under 5,48,35,0,106,50,47.17,No
+172,Kabonka MCHP,50,37,13,134,63,47.01,Yes
+222,Kissy Town CHP,50,21,0,49,23,46.94,No
+38,Bendu CHC,17,9,0,32,15,46.88,No
+4,Allen Town Health Post,8,7,1,109,51,46.79,Yes
+367,Maronko MCHP,24,9,15,88,41,46.59,Yes
+56,Bumban MCHP,4,0,0,114,53,46.49,No
+166,Jokibu MCHP,24,23,0,84,39,46.43,No
+91,Fintonia CHC,46,42,0,65,30,46.15,No
+104,Gbado MCHP,35,10,0,102,47,46.08,No
+539,Sumbaria MCHP,2,1,0,37,17,45.95,No
+3,"Air Port Centre, Lungi",6,0,6,138,63,45.65,Yes
+137,Gendema MCHP,35,4,31,22,10,45.45,Yes
+11,Baiama CHP,25,20,5,128,58,45.31,Yes
+181,Kalangba MCHP,18,5,0,53,24,45.28,No
+339,Malone MCHP,2,0,2,145,65,44.83,Yes
+270,Kychom CHC,8,3,0,67,30,44.78,No
+526,Seria MCHP,30,21,0,105,47,44.76,No
+549,Taninihun Kapuima MCHP,37,14,0,103,46,44.66,No
+235,Komrabai Station MCHP,12,5,0,72,32,44.44,No
+272,Lakka Hospital,47,27,0,9,4,44.44,No
+519,Senehun Gbloh MCHP,0,0,0,122,54,44.26,No
+102,Gao MCHP,5,0,5,52,23,44.23,Yes
+461,Panguma Mission Hosp.,45,8,37,68,30,44.12,Yes
+109,Gbamandu MCHP,28,22,0,39,17,43.59,No
+165,Jojoima CHC,42,13,0,90,39,43.33,No
+323,Makarankay MCHP,9,9,0,97,42,43.30,Yes
+305,Magbaft MCHP,28,12,16,144,62,43.06,Yes
+490,Rokonta CHC,21,2,0,14,6,42.86,No
+66,Campbell Town  CHP,11,3,0,147,62,42.18,No
+349,Manewa MCHP,3,3,0,72,30,41.67,Yes
+446,Ninkikoro MCHP,25,4,0,24,10,41.67,No
+390,Mawoma MCHP,33,26,7,101,42,41.58,Yes
+428,Moyiba CHC,11,1,10,77,32,41.56,Yes
+541,Sumbuya MCHP,6,1,0,77,32,41.56,No
+567,UMC Mitchener Memorial Maternity & Health Centre,2,0,2,58,24,41.38,Yes
+295,Macauley Satellite Hospital,37,5,32,90,37,41.11,Yes
+453,Njala CHP,13,10,3,144,59,40.97,Yes
+600,Yoyema MCHP,8,5,0,127,52,40.94,No
+161,Jembe CHC,5,1,4,27,11,40.74,Yes
+434,New Maforkie CHP,22,18,0,150,61,40.67,No
+278,Liya MCHP,31,27,0,69,28,40.58,No
+527,Shenge CHC,10,0,0,47,19,40.43,No
+74,Dawa MCHP,50,0,50,100,40,40.00,Yes
+325,Makelleh MCHP,21,17,0,80,32,40.00,No
+157,Holy Mary Clinic,40,6,0,30,12,40.00,No
+129,Gbongeima MCHP,1,0,1,10,4,40.00,Yes
+360,Mano-Jaiama CHP,44,31,13,10,4,40.00,Yes
+219,Kingtom Police Hospital (MI Room),32,31,0,5,2,40.00,No
+19,Bandajuma Yawei CHC,50,40,10,121,48,39.67,Yes
+335,Malal MCHP,27,12,0,38,15,39.47,No
+341,Mamankie MCHP,27,20,7,127,50,39.37,Yes
+64,Bundulai MCHP,14,13,1,135,53,39.26,Yes
+447,Njagbahun (Fakunya) MCHP,15,8,7,92,36,39.13,Yes
+590,Yara MCHP,1,0,1,123,48,39.02,Yes
+321,Makalie MCHP,39,0,0,141,55,39.01,No
+529,Sinkunia CHC,8,0,8,137,53,38.69,Yes
+290,Mabenteh Community Hospital,10,9,1,44,17,38.64,Yes
+334,Makundu MCHP,9,6,0,57,22,38.60,No
+260,Kpetewoma CHP,14,13,1,148,57,38.51,Yes
+225,Koardu MCHP,44,21,23,86,33,38.37,Yes
+296,MacDonald MCHP,4,3,1,95,36,37.89,Yes
+423,Motoni MCHP,9,6,3,48,18,37.50,Yes
+281,Loppa CHP,50,13,0,16,6,37.50,No
+148,Govt. Hosp. Pujehun,0,0,0,8,3,37.50,No
+355,Manjoro MCHP,44,19,25,115,43,37.39,Yes
+18,Bandajuma Kpolihun CHP,1,1,0,94,35,37.23,No
+119,Gbenikoro MCHP,13,12,1,30,11,36.67,Yes
+598,Yorgbofore MCHP,12,3,9,142,52,36.62,Yes
+596,Yongoro CHP,36,5,0,11,4,36.36,No
+127,Gbongboma MCHP,34,2,32,11,4,36.36,Yes
+509,Sandia CHP,42,21,0,11,4,36.36,No
+144,Gondama MCHP,0,0,0,25,9,36.00,No
+329,Makoba Bana MCHP,10,10,0,64,23,35.94,No
+265,Kukuna CHP,11,8,3,117,42,35.90,Yes
+400,Mile 38 CHP,15,4,11,123,44,35.77,Yes
+533,St. John of God Catholic Clinic,39,38,1,103,36,34.95,Yes
+125,Gbombana MCHP,13,0,13,141,49,34.75,Yes
+156,Heremakono MCHP,9,1,0,26,9,34.62,No
+111,Gbangadu MCHP,40,22,18,90,31,34.44,Yes
+451,Njagbwema MCHP,11,7,0,61,21,34.43,No
+118,Gbendembu Wesleyan CHC,28,22,0,137,47,34.31,No
+262,Kpowubu MCHP,8,8,0,120,41,34.17,Yes
+441,Ngiehun MCHP,48,26,22,91,31,34.07,Yes
+259,Kpetema MCHP,2,0,0,110,37,33.64,No
+389,Mattru on the Rail MCHP,41,20,0,141,47,33.33,No
+499,Ross Road Health Centre,34,3,31,69,23,33.33,Yes
+589,Yankasa MCHP,4,1,3,3,1,33.33,Yes
+376,Masory MCHP,28,6,0,133,44,33.08,No
+407,Mokaiyegbeh MCHP,27,19,8,130,43,33.08,Yes
+342,Mamanso Kafla MCHP,50,30,0,98,32,32.65,No
+143,Golu MCHP,1,0,1,43,14,32.56,Yes
+412,Mokongbetty MCHP,28,16,12,124,40,32.26,Yes
+444,Niagorehun CHP,19,1,0,109,35,32.11,No
+364,Mapaki CHC,47,33,14,22,7,31.82,Yes
+392,Mayossoh MCHP,1,0,0,19,6,31.58,No
+559,Tissana CHC,22,9,13,80,25,31.25,Yes
+212,Kemedugu MCHP,10,10,0,145,45,31.03,Yes
+347,Mamusa MCHP,21,3,18,123,38,30.89,Yes
+554,Telu CHP,36,7,29,75,23,30.67,Yes
+271,Laiya CHP,9,0,9,111,34,30.63,Yes
+361,Manowa CHC,27,9,18,148,45,30.41,Yes
+86,Falaba MCHP,44,8,0,112,34,30.36,No
+500,Rotifunk CHC,36,8,0,73,22,30.14,No
+492,Rokupa Govt. Hospital,6,6,0,40,12,30.00,Yes
+396,MCH Static/U5,26,25,1,68,20,29.41,Yes
+437,Ngalu CHC,22,17,0,92,27,29.35,No
+284,Lumley Hospital,27,21,0,76,22,28.95,No
+204,Kasongha MCHP,47,20,27,59,17,28.81,Yes
+277,Levuma Kai MCHP,10,8,2,94,27,28.72,Yes
+571,Victoria MCHP,6,0,6,126,36,28.57,Yes
+324,Makarie MCHP,2,2,0,77,22,28.57,Yes
+160,Jao MCHP,33,1,0,21,6,28.57,No
+435,Newton CHC,34,4,30,14,4,28.57,Yes
+371,Masiaka CHC,17,2,15,7,2,28.57,Yes
+525,Serekolia MCHP,7,6,1,88,25,28.41,Yes
+150,Govt. Hospital Moyamba,36,24,12,138,39,28.26,Yes
+112,Gbangbatoke CHC,17,10,7,39,11,28.21,Yes
+131,Gbonkobana CHP,21,6,0,93,26,27.96,No
+100,Gandorhun CHC,16,3,0,43,12,27.91,No
+168,Juma MCHP,38,26,12,126,35,27.78,Yes
+313,Maharibo MCHP,29,0,0,18,5,27.78,No
+463,Paramedical CHC,30,21,0,119,33,27.73,No
+17,Bandajuma Clinic CHC,39,25,0,69,19,27.54,No
+210,Kayima CHC,44,43,1,11,3,27.27,Yes
+302,Mafaray CHP,35,23,0,52,14,26.92,No
+336,Malama MCHP,36,0,0,45,12,26.67,No
+410,Mokellay MCHP,20,3,0,94,25,26.60,No
+288,Mabai MCHP,39,20,19,128,34,26.56,Yes
+503,Sahn CHC,10,0,0,72,19,26.39,No
+387,Matotoka CHC,5,0,5,148,39,26.35,Yes
+504,Salima MCHP,41,15,0,19,5,26.32,No
+415,Mokpanabom MCHP,0,0,0,58,15,25.86,No
+179,Kalainkay MCHP,21,11,10,148,38,25.68,Yes
+198,Kantia CHP,10,2,0,74,19,25.68,No
+470,Pepel CHP,47,8,0,107,27,25.23,No
+570,Vaama MCHP,0,0,0,28,7,25.00,No
+476,Plantain Island MCHP,25,1,0,4,1,25.00,No
+306,Magbaikoli MCHP,44,33,0,114,28,24.56,No
+223,Koakor MCHP,18,15,3,127,31,24.41,Yes
+170,Kabati CHP,13,3,10,96,23,23.96,Yes
+308,Magbass MCHP,9,1,0,67,16,23.88,No
+552,Tefeya CHP,9,0,0,135,32,23.70,No
+595,Yengema CHC,0,0,0,85,20,23.53,No
+108,Gbalamuya MCHP,46,42,4,17,4,23.53,Yes
+202,Karina MCHP,11,2,9,81,19,23.46,Yes
+502,Sahn Bumpe MCHP,42,15,0,141,33,23.40,No
+232,Kokoru CHP,39,12,27,146,34,23.29,Yes
+450,Njagbwema Fiama CHC,26,6,0,104,24,23.08,No
+456,Njama CHC,2,2,0,148,34,22.97,Yes
+23,Baoma MCHP,8,5,0,61,14,22.95,No
+532,St Monica's Clinic,4,4,0,79,18,22.78,No
+184,Kamakwie MCHP,15,1,14,132,30,22.73,Yes
+546,Tambeyama MCHP,9,1,0,93,21,22.58,No
+416,Mokpende MCHP,18,16,2,90,20,22.22,Yes
+385,Mathonkara MCHP,8,1,7,72,16,22.22,Yes
+201,Kareneh MCHP,49,14,0,54,12,22.22,No
+564,Torma Bum CHP,42,40,2,9,2,22.22,Yes
+93,Foindu MCHP,47,46,1,100,22,22.00,Yes
+314,Maharie MCHP,46,41,5,91,20,21.98,Yes
+252,Koya MCHP,8,3,5,123,27,21.95,Yes
+90,Feuror MCHP,38,27,11,142,31,21.83,Yes
+1,Ahamadyya Mission Cl,37,20,0,79,17,21.52,No
+477,Potoru CHC,17,15,2,149,32,21.48,Yes
+200,Kaponkie MCHP,35,5,30,70,15,21.43,Yes
+12,Baiima CHP,42,1,41,70,15,21.43,Yes
+338,Malema 1 MCHP,6,0,0,75,16,21.33,No
+557,Tihun CHC,36,23,13,99,21,21.21,Yes
+47,Blama Massaquoi CHP,4,0,4,95,20,21.05,Yes
+337,Malambay CHP,40,34,6,19,4,21.05,Yes
+356,Manna MCHP,29,22,0,105,22,20.95,No
+561,Tombodu CHC,42,34,8,77,16,20.78,Yes
+228,Koidu Govt. Hospital,45,27,0,39,8,20.51,No
+116,Gbap CHC,21,2,19,127,26,20.47,Yes
+291,Mabolleh MCHP,39,24,0,127,26,20.47,No
+231,Koindukura MCHP,39,20,19,142,29,20.42,Yes
+297,Madina Fullah CHP,47,47,0,119,24,20.17,Yes
+524,Serabu (Koya) CHP,10,6,4,119,24,20.17,Yes
+426,Motuo CHC,0,0,0,25,5,20.00,No
+298,Madina Gbonkobor MCHP,37,31,6,15,3,20.00,Yes
+203,Karlu CHC,7,0,0,5,1,20.00,No
+442,Ngiewahun CHP,39,7,32,5,1,20.00,Yes
+398,Mendewa MCHP,26,16,10,61,12,19.67,Yes
+183,Kamabaio MCHP,19,16,3,107,21,19.63,Yes
+6,Arab Clinic,3,2,0,143,28,19.58,No
+224,Koakoyima CHC,31,26,5,72,14,19.44,Yes
+597,Yonibana MCHP,6,4,2,98,19,19.39,Yes
+71,Damballa CHC,0,0,0,31,6,19.35,Yes
+136,Gelehun MCHP,15,10,0,78,15,19.23,No
+543,Sussex MCHP,49,23,0,53,10,18.87,No
+51,Bomie MCHP,8,2,6,124,23,18.55,Yes
+374,Masongbo Limba MCHP,11,6,5,81,15,18.52,Yes
+89,Feiba CHP,21,19,2,27,5,18.52,Yes
+466,Pejewa MCHP,23,4,19,150,27,18.00,Yes
+404,Mogbuama MCHP,18,9,9,101,18,17.82,Yes
+103,Gbaama MCHP,11,3,8,45,8,17.78,Yes
+417,Momajo MCHP,27,24,3,34,6,17.65,Yes
+303,Maforay MCHP,5,1,4,110,19,17.27,Yes
+178,Kakoya MCHP,4,0,4,36,6,16.67,Yes
+114,Gbanja Town MCHP,1,1,0,24,4,16.67,Yes
+475,Peyima CHP,16,0,0,107,17,15.89,No
+379,Massam MCHP,48,4,0,77,12,15.58,No
+550,Taninihun Mboka MCHP,37,6,0,91,14,15.38,No
+80,Dodo Kortuma CHP,32,20,12,20,3,15.00,Yes
+312,Magburaka Govt. Hospital,7,1,0,128,19,14.84,No
+34,Batkanu CHC,33,22,0,27,4,14.81,No
+123,Gbo-Lambayama 2 MCHP,34,8,0,136,20,14.71,No
+120,Gbentu CHP,28,14,0,147,21,14.29,No
+142,Gofor CHP,0,0,0,28,4,14.29,No
+327,Makeni-Rokfullah MCHP,5,2,3,7,1,14.29,Yes
+94,Foredugu MCHP,46,1,0,7,1,14.29,No
+528,Sierra Rutile Clinic,33,27,6,7,1,14.29,Yes
+468,Pendembu CHC,17,17,0,43,6,13.95,Yes
+188,Kamawornie CHP,27,27,0,51,7,13.73,No
+478,Quarry MCHP,22,12,0,125,16,12.80,No
+106,Gbainkfay MCHP,45,4,0,94,12,12.77,No
+196,Kanikay MCHP,45,25,0,110,14,12.73,No
+311,Magbolonthor MCHP,37,28,9,63,8,12.70,Yes
+31,Barmoi Munu CHP,26,2,0,48,6,12.50,No
+135,Gbuihun MCHP,17,10,0,32,4,12.50,No
+563,Tonkomba MCHP,18,12,0,8,1,12.50,No
+189,Kambama CHP,18,12,6,74,9,12.16,Yes
+495,Romeni MCHP,36,36,0,33,4,12.12,No
+197,Kaniya MCHP,20,4,0,112,13,11.61,No
+558,Tikonko CHC,26,24,0,87,10,11.49,No
+472,Petifu CHC,2,2,0,70,8,11.43,Yes
+388,Mattru Jong MCHP,17,2,0,44,5,11.36,No
+273,Largo CHC,4,0,0,90,10,11.11,No
+248,Kormende MCHP,34,8,26,81,9,11.11,Yes
+187,Kamasikie MCHP,3,3,0,36,4,11.11,No
+250,Kortohun CHP,25,22,0,47,5,10.64,No
+496,Ronietta MCHP,14,11,3,72,7,9.72,Yes
+369,Masankorie CHP,15,5,0,63,6,9.52,No
+521,Sengema CHP,19,15,4,148,14,9.46,Yes
+498,Rosint Buya MCHP,45,1,0,112,10,8.93,No
+409,Mokassie MCHP,16,14,2,45,4,8.89,Yes
+555,The White House Clinic,39,17,22,35,3,8.57,Yes
+208,Kathombo MCHP,36,12,0,106,9,8.49,No
+464,PCM Hospital,16,5,11,12,1,8.33,Yes
+207,Kathanta Yimbor CHC,43,22,21,12,1,8.33,Yes
+384,Mateboi CHC,37,6,31,86,7,8.14,Yes
+92,Fogbo (WAR) MCHP,18,2,16,134,10,7.46,Yes
+53,Boroma MCHP,26,26,0,148,11,7.43,Yes
+69,Connaught Hospital,28,15,13,27,2,7.41,Yes
+24,Baoma Oil Mill CHC,22,22,0,122,9,7.38,Yes
+330,Makolor CHP,12,8,0,139,10,7.19,No
+32,Bath Bana MCHP,18,1,0,60,4,6.67,No
+21,Bandasuma Fiama MCHP,21,0,21,17,1,5.88,Yes
+579,Wilberforce CHC,37,4,33,73,4,5.48,Yes
+217,Kigbai MCHP,47,37,10,73,4,5.48,Yes
+469,Pendembu Njeigbla MCHP,21,4,17,148,8,5.41,Yes
+556,Thompson Bay MCHP,47,17,0,37,2,5.41,No
+128,Gbongeh CHP,7,6,0,56,3,5.36,No
+368,Masanga Leprosy Hospital,27,14,13,79,4,5.06,Yes
+82,Fadugu CHC,28,28,0,102,5,4.90,No
+582,Woama MCHP,3,1,2,127,6,4.72,Yes
+180,Kalangba CHC,37,15,0,46,2,4.35,No
+97,Fullawahun MCHP,43,14,29,23,1,4.35,Yes
+29,Barlie MCHP,38,6,32,24,1,4.17,Yes
+16,Bambuibu Tommy MCHP,5,1,4,49,2,4.08,Yes
+169,Kabaima MCHP,5,3,0,29,1,3.45,No
+402,Modia MCHP,33,10,23,96,3,3.13,Yes
+587,Yamandu CHC,17,2,0,129,4,3.10,No
+182,Kamabai CHC,14,7,7,99,3,3.03,Yes
+494,Romando MCHP,5,2,0,103,3,2.91,No
+45,Binkolo CHC,19,2,0,36,1,2.78,No
+393,Mbokie CHP,41,17,0,84,2,2.38,No
+46,Blama CHC,17,6,0,89,2,2.25,No
+569,Vaahun MCHP,30,3,27,105,2,1.90,Yes
+317,Makaba MCHP,28,23,5,108,2,1.85,Yes
+421,Mosenessie Junction MCHP,13,1,12,65,1,1.54,Yes
+48,Bo Govt. Hosp.,41,18,23,70,1,1.43,Yes
+230,Koindu CHC,37,22,15,83,1,1.20,Yes
+289,Mabella MCHP,26,17,0,93,1,1.08,No
+26,Baomahun CHC,9,6,0,97,1,1.03,No
+122,Gbindi CHP,47,0,0,97,1,1.03,No
+83,Fairo CHC,0,0,0,150,1,0.67,Yes
+286,Lungi Town MCHP,46,10,0,5,0,0.00,No
+328,Makiteh MCHP,26,20,6,5,0,0.00,Yes
+20,Bandasuma CHP,27,12,15,5,0,0.00,Yes
+15,Bambara MCHP,22,17,0,5,0,0.00,No
+186,Kamaranka CHC,43,26,0,5,0,0.00,No
+467,Pelewahun MCHP,48,7,0,5,0,0.00,No
+397,Mendekelema CHP,29,11,18,5,0,0.00,Yes
+229,Koidu Under Five Clinic,47,24,23,5,0,0.00,Yes
+299,Madina Loko CHP,13,10,3,2,0,0.00,Yes
+537,Sukudu Soa MCHP,20,15,0,3,0,0.00,No
+406,Mokainsumana CHP,0,0,0,7,0,0.00,Yes
+540,Sumbuya CHC,15,15,0,19,0,0.00,No
+553,Teko Barracks Clinic,48,41,0,23,0,0.00,No
+516,Semewebu MCHP,33,11,22,24,0,0.00,Yes
+62,Bumpeh Perri CHC,10,2,8,29,0,0.00,Yes
+359,Mano Njeigbla CHP,11,5,6,50,0,0.00,Yes
+185,Kamalo CHC,39,15,0,58,0,0.00,No
+44,Benkia MCHP,33,10,23,73,0,0.00,Yes
+155,Hastings Health Centre,16,6,0,111,0,0.00,No
